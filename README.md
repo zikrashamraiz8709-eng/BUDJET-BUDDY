@@ -6,8 +6,8 @@ Budget Buddy is a console-based Personal Finance Management System developed in 
 
 ## 👩‍💻 Developers
 
-Zikra Shamraiz
-Fatima Noor
+- Zikra Shamraiz
+- Fatima Noor
 
 ## 📌 Features
 
